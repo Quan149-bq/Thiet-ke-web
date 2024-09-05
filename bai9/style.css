@@ -1,0 +1,17 @@
+.bai2{
+    list-style-type: none;
+
+}
+.la{
+    float: right;
+    background-color: aqua;
+}
+.ha{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 5px;
+    color: white;
+    font-family:  Helvetica;
+}
+
