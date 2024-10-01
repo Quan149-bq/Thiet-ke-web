@@ -1,0 +1,20 @@
+.ảnh_thịnh{
+    position: relative;
+    display: inline-block;
+
+}
+.ảnh_thịnh img{
+    width: 100%;
+    height: auto;
+
+}
+.chữ{
+    position:absolute;
+    bottom: 1%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: red;
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
+
