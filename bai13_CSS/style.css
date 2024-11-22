@@ -13,15 +13,16 @@ body {
     border: 2px solid white;
 }
 .avt img{
-    width: 100%;
+    width: 150%;
     height: 100%;
-    object-fit: cover;
+    background-size: cover;
+
+
 }
 .web{
    
     height: 50%;
     display: flex;
-    align-items: center;
     justify-content: center;
     text-align: center;
     background-image: url('rừng.jpg'); 
